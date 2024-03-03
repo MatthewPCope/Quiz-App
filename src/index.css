@@ -3,6 +3,7 @@
     padding: 0;
 }
 body{
+    font-family: 'Acme', sans-serif;
     height: 100vh;
     background-image: linear-gradient(#D8C7FF, #19006C);
 }
